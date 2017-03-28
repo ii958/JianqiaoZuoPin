@@ -1,0 +1,8 @@
+C:\work\workspace\9527\十三娘的伟大的独一无二的第一个的应用程序\bin\Debug\十三娘的伟大的独一无二的第一个的应用程序.exe.config
+C:\work\workspace\9527\十三娘的伟大的独一无二的第一个的应用程序\bin\Debug\十三娘的伟大的独一无二的第一个的应用程序.exe
+C:\work\workspace\9527\十三娘的伟大的独一无二的第一个的应用程序\bin\Debug\十三娘的伟大的独一无二的第一个的应用程序.pdb
+C:\work\workspace\9527\十三娘的伟大的独一无二的第一个的应用程序\obj\Debug\十三娘的伟大的独一无二的第一个的应用程序.Form1.resources
+C:\work\workspace\9527\十三娘的伟大的独一无二的第一个的应用程序\obj\Debug\十三娘的伟大的独一无二的第一个的应用程序.Properties.Resources.resources
+C:\work\workspace\9527\十三娘的伟大的独一无二的第一个的应用程序\obj\Debug\十三娘的伟大的独一无二的第一个的应用程序.csproj.GenerateResource.Cache
+C:\work\workspace\9527\十三娘的伟大的独一无二的第一个的应用程序\obj\Debug\十三娘的伟大的独一无二的第一个的应用程序.exe
+C:\work\workspace\9527\十三娘的伟大的独一无二的第一个的应用程序\obj\Debug\十三娘的伟大的独一无二的第一个的应用程序.pdb
